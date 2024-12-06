@@ -3,6 +3,7 @@
 1. [ Description. ](#desc)
 2. [ Contents In .sh/.txt File. ](#File-Contents)
 3. [ Requirements. ](#Req)
+4. [ Aquiring git rep and running code. ](#Aquire)
   
 <a name="desc"></a>
 ## **Description**
@@ -34,6 +35,7 @@ In the end I added a ending sign using figlet and the font color, at the very en
 | figlet | 'sudo apt-get install figlet' |
 | figlet | [Other Linux OS](https://thelinuxcode.com/figlet-command-linux/)|
 
+<a name="Aquire"></a>
 ## Aquiring git repository and running code
 **$ git clone https://git@github.com:LogMan124/Encina_LInuxfinal.git**
 -Then use git Archive

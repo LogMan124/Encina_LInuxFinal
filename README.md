@@ -4,7 +4,7 @@
 2. [ Contents In .sh/.txt File. ](#File-Contents)
 3. [ Requirements. ](#Req)
   
-<a name"desc"></a>
+<a name="desc"></a>
 ## **Description**
 This is a project final for CIS20231N2 Linux. It contains a README.MD, and Bash.txt/.sh file.
 In experimenting with Bash I have developed a beutiful script and am ready to document my process.
@@ -26,7 +26,7 @@ In the end I added a ending sign using figlet and the font color, at the very en
 [^1]: Throughout the code I added a black background, just thought it would be fun.
 
 <a name="Req"></a>
-## **Requirements** {#Requirements}
+## **Requirements**
 |Requirements | Installation |
 | ---------------- | ------------- |
 | git | 'Debian/Ubuntu: sudo apt-get install git-all |

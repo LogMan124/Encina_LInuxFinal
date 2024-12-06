@@ -1,14 +1,15 @@
 # Encina_LinuxFinal
 ## Table of contents
-[Description](#Description)
-    [Contents In .sh/.txt File](#Contentsoffiles)
-  [Requirements](#Requirements)
+[ Description. ](#desc)
+[ Contents In .sh/.txt File. ](#File-Contents) 
 
-## **Description** {#Description}
+<a name"desc"></a>
+## **Description**
 This is a project final for CIS20231N2 Linux. It contains a README.MD, and Bash.txt/.sh file.
 In experimenting with Bash I have developed a beutiful script and am ready to document my process.
 
-### **Contents In .sh/.txt File** {#Contentsoffiles}
+<a name="File-Contents"></a>
+### **Contents In .sh/.txt File** 
 [^1]
 1. Welcome sign
 2. A loop from 1-50
@@ -23,6 +24,7 @@ In the end I added a ending sign using figlet and the font color, at the very en
 
 [^1]: Throughout the code I added a black background, just thought it would be fun.
 
+<a name="Req"></a>
 ## **Requirements** {#Requirements}
 |Requirements | Installation |
 | ---------------- | ------------- |

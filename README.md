@@ -1,13 +1,31 @@
 # Encina_LinuxFinal
-# Description
+
+## **Description**
 This is a project final for CIS20231N2 Linux. It contains a README.MD, and Bash.txt/.sh file.
 In experimenting with Bash I have developed a beutiful script and am ready to document my process.
-
-It contains a Welcome Sign, a loop from 1-50, and a Ending sign
+### **Contents In .sh/.txt File** 
+[^1]
+1. Welcome sign
+2. A loop from 1-50
+3. Ending sign
+- **The Beginning**
 The code used in the beginning is colors for the fonts, the fonts where brought to us by figlet. 
 I used the colors and the Fonts to build the beginning sign, color and font the printed numbers, and build the Ending sign.
+- **The Middle**
 In the middle we have our loop from 1 to 50, I used the sleep, and echo command to print the numbers and figlet helped with the font and echo also helped with the colors
+- **The End**
 In the end I added a ending sign using figlet and the font color, at the very end I used the sleep command to wait 5 seconds and the clear command to cleanup the job.
-Thtoughout the code I added a black background, just thought it would be fun.
 
+[^1]: Throughout the code I added a black background, just thought it would be fun.
+
+## **Requirements**
+|Requirements | Installation |
+| ---------------- | ------------- |
+| git | 'Debian/Ubuntu: sudo apt-get install git-all |
+| git | [Other Linux OS](https://git-scm.com/downloads/linux) |
+| figlet | 'sudo apt-get install figlet' |
+| figlet | [Other Linux OS]([https://snapcraft.io/install/figlet/fedora](https://thelinuxcode.com/figlet-command-linux/)) |
+
+## Aquiring git repository
+$ git clone https://git@github.com
 I hope you enjoy.

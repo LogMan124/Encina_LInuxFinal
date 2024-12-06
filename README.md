@@ -4,8 +4,8 @@
 This is a project final for CIS20231N2 Linux. It contains a README.MD, and Bash.txt/.sh file.
 In experimenting with Bash I have developed a beutiful script and am ready to document my process.
 ## Table of contents
-* [Contents In .sh/.txt File](#Contents In .sh/.txt File )
-* [Requirements] (# Requirements)
+* [Contents In .sh/.txt File](#Contents-In-.sh/.txt-File )
+* [Requirements](#Requirements)
   
 ### **Contents In .sh/.txt File** 
 [^1]

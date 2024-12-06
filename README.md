@@ -3,6 +3,10 @@
 ## **Description**
 This is a project final for CIS20231N2 Linux. It contains a README.MD, and Bash.txt/.sh file.
 In experimenting with Bash I have developed a beutiful script and am ready to document my process.
+## Table of contents
+* [Contents In .sh/.txt File](#Contents In .sh/.txt File )
+* [Requirements] (# Requirements)
+  
 ### **Contents In .sh/.txt File** 
 [^1]
 1. Welcome sign
@@ -24,8 +28,13 @@ In the end I added a ending sign using figlet and the font color, at the very en
 | git | 'Debian/Ubuntu: sudo apt-get install git-all |
 | git | [Other Linux OS](https://git-scm.com/downloads/linux) |
 | figlet | 'sudo apt-get install figlet' |
-| figlet | [Other Linux OS]([https://snapcraft.io/install/figlet/fedora](https://thelinuxcode.com/figlet-command-linux/)) |
+| figlet | [Other Linux OS](https://thelinuxcode.com/figlet-command-linux/)|
 
-## Aquiring git repository
-$ git clone https://git@github.com
+## Aquiring git repository and running code
+**$ git clone https://git@github.com:LogMan124/Encina_LInuxfinal.git**
+-Then use git Archive
+**$ git archive**
+-That should pull the files and now you should just execute the .sh file
+**$ ./sh**
+
 I hope you enjoy.

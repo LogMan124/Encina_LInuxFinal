@@ -1,8 +1,8 @@
 # Encina_LinuxFinal
 ## Table of contents
 -[ Description. ](#desc)
-  -[ Contents In .sh/.txt File. ](#File-Contents) 
-  -[ Requirements. ](#Req)
+-[ Contents In .sh/.txt File. ](#File-Contents) 
+-[ Requirements. ](#Req)
   
 <a name"desc"></a>
 ## **Description**

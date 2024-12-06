@@ -38,9 +38,13 @@ In the end I added a ending sign using figlet and the font color, at the very en
 <a name="Aquire"></a>
 ## Aquiring git repository and running code
 **$ git clone https://git@github.com:LogMan124/Encina_LInuxfinal.git**
+
 -Then use git Archive
+
 **$ git archive**
+
 -That should pull the files and now you should just execute the .sh file
+
 **$ ./sh**
 
 I hope you enjoy.

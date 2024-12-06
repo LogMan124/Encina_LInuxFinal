@@ -1,8 +1,9 @@
 # Encina_LinuxFinal
 ## Table of contents
-[ Description. ](#desc)
-[ Contents In .sh/.txt File. ](#File-Contents) 
-
+-[ Description. ](#desc)
+  -[ Contents In .sh/.txt File. ](#File-Contents) 
+  -[ Requirements. ](#Req)
+  
 <a name"desc"></a>
 ## **Description**
 This is a project final for CIS20231N2 Linux. It contains a README.MD, and Bash.txt/.sh file.

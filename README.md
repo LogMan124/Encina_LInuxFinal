@@ -37,7 +37,7 @@ In the end I added a ending sign using figlet and the font color, at the very en
 
 <a name="Aquire"></a>
 ## Aquiring git repository and running code
-**$ git clone https://git@github.com:LogMan124/Encina_LInuxfinal.git**
+**$ git clone git@github.com:LogMan124/Encina_LInuxfinal.git**
 
 -Then use git Archive
 
